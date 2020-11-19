@@ -8,5 +8,9 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 ### Step 2:
     Handle the categorical features
 ### Step 3:
-    Apply the algorithm (XGBoost algo)
+    Apply the algorithm
     
+    1. linear regression
+    2. decision tree regressor
+    3. random forest regressor
+    4. XGBoost regressor
