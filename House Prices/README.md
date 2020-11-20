@@ -13,4 +13,4 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     1. linear regression
     2. decision tree regressor
     3. random forest regressor
-    4. XGBoost regressor
+    4. XGBoost regressor (BEST RESULT)
